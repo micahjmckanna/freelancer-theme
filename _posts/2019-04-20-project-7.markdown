@@ -1,0 +1,14 @@
+---
+layout: default
+title: Type Poster
+modal-id: 6
+date: 2019-04-20
+img: poster.jpg
+alt: image-alt
+project-date: March 2019
+client: Start Bootstrap
+client-link: https://www.google.com
+category: Web Development
+description: A poster design from Typography
+
+---
